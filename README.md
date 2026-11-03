@@ -21,4 +21,4 @@ Le dossier `.venv` et les fichiers de configuration propres à PyCharm ne sont p
 
 ## Utilisation de l'intelligence artificielle
 
-Une assistance par intelligence artificielle a été utilisée pour organiser les fichiers, ajouter des fonctions communes, préparer les tests et relire la documentation. Le code et les résultats doivent être relus et compris par l'étudiante avant le dépôt définitif.
+Une assistance par intelligence artificielle a été utilisée pour aider à la rédaction du code, à la correction de certaines erreurs et à la préparation de la documentation. Les résultats et le fonctionnement du programme seront vérifiés avant le rendu final.

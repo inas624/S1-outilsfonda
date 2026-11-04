@@ -1,0 +1,20 @@
+COMPARAISON DE PIZZAS
+Hypothèses : pizzas circulaires, prix d'exemple et surface seule prise en compte.
+
+Taille          Diamètre      Prix       Surface      Prix/cm²
+--------------------------------------------------------------
+Grande           34.0 cm    13.00 €     907.92 cm²     0.0143 €
+Moyenne          30.0 cm    11.00 €     706.86 cm²     0.0156 €
+Petite           26.0 cm     9.00 €     530.93 cm²     0.0170 €
+
+Meilleur prix au cm² : Grande (0.0143 €/cm²).
+
+EXPERIENCE : DOUBLER LE DIAMETRE
+Surface pour 20 cm : 314.16 cm²
+Surface pour 40 cm : 1256.64 cm²
+Rapport des surfaces : 4.00
+Le diamètre est multiplié par 2, mais la surface est multipliée par 4.
+
+PRECISION DES FLOTTANTS
+Calcul de pi * 13² : 530.929158456675054
+Ecart après arrondi à 2 décimales : 0.000841543324896 cm²
